@@ -36,6 +36,16 @@ public class Arrays {
 		break;
 		case 13:Ex_N13.ExN13();
 		break;
+		case 14:Ex_N14.ExN14();
+		break;
+		case 15:Ex_N15.ExN15();
+		break;
+		case 16:Ex_N16.ExN16();
+		break;
+		case 17:Ex_N17.ExN17();
+		break;
+		case 18:Ex_N18.ExN18();
+		break;
 		
 		default: System.out.println("Нету такого задания");
 		break;
